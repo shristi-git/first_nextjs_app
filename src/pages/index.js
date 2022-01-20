@@ -24,7 +24,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about Next.js features and API. shristi jain</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
@@ -49,6 +49,9 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
+        </div>
+        <div >
+
         </div>
       </main>
 
